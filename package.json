@@ -1,0 +1,23 @@
+{
+  "name": "mini-bot",
+  "version": "1.0.0",
+  "description": "Uma mini bot que responde uma mensagem padrão para um 'oi'",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vicenteprogammer/mini-bot.git"
+  },
+  "author": "Vicente Junior",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vicenteprogammer/mini-bot/issues"
+  },
+  "homepage": "https://github.com/vicenteprogammer/mini-bot#readme",
+  "dependencies": {
+    "venom-bot": "^5.3.0"
+  }
+}
